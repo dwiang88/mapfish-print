@@ -3,6 +3,7 @@ build/
 buildSrc/.gradle/
 buildSrc/build/
 deploy.sh
+.nb-gradle/
 *.class
 .classpath
 .settings/org.eclipse.jdt.core.prefs
